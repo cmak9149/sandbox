@@ -1,0 +1,19 @@
+{
+  "name": "dependence",
+  "version": "1.0.0",
+  "description": "Dependence injection playground",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/cmak9149/sandbox.git"
+  },
+  "author": "Chewan Mak",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cmak9149/sandbox/issues"
+  },
+  "homepage": "https://github.com/cmak9149/sandbox#readme"
+}
